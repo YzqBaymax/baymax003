@@ -1,8 +1,12 @@
 site_name: baymax003
 repo_name: YzqBaymax/baymax003
 repo_url: https://github.com/YzqBaymax/baymax003
-nav:
-  -首页: index.md
+use_directory_urls: true
+nav:  
+  - 首页: index.md
+  - 大一上: study1.md
+  - 大一下: study2.md
+  - 大二上: study3.md
 markdown_extensions:
   - admonition
   - pymdownx.details
